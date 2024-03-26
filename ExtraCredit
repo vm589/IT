@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+     <head>
+       <title> Victor's Extra Credit </title>
+     </head>
+<body>
+<h1> Extra Credit</h1>
+<h2> Do's and Don't when building a website </h2>
+<p> There are many ways to build a website but for it to grab people' attention is another thing. Here are 5 general do's and don'ts when you start up building your website </p>
+
+<h3> Things you should do </h3> 
+<ul> 
+<li> Always use "div" as its helpful as even though it does not have any visual effect on the website it helps organizing the code </li>
+<li> The use of break or br is helpful especially since you cannot really know how a website will look when typing the paragaph out. 
+It will come down too the format of the website so using it helps keep it more in order to restart it on a new line </li>
+<li> Using headers is very important as it helps give a title or introduction to the page. </li>
+<li> Always remember to use "a" tags for whenever you want to provide an external link to another site for whatever reason </li>
+<li> Linking images are more complicated so its important to memorize the steps. The source file or src is placed at the start
+and is where you put the image link, you then put alternative text and although it is optional
+you could put the width and height and adjust it. </li>
+</ul>
+
+<h3> to avoid </h3>
+<ul> 
+<li> Not naming your headings in the right order. For example going from h1 to h4 </li>
+
+<li> Confusing the title with a heading is another common mistake </li>
+
+<li> Confusing li with ol in terms of listing </li>
+
+<li> Trying to mix the css with the html. First finish the html coding to leave it less jarring to deal with </li>
+
+<li> It is better to use an external css folder then incline </li>
+
+<li> Overall just not having a clear image in mind, always have a clear goal so the website does not come out looking terrible. </li>
+
+</ul>
+
+</body>
+</html>
